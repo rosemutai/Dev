@@ -503,6 +503,14 @@ embed.my-resume{
         margin:  0 auto;
     }
 
+    .contact-me .right{
+        flex: 1;
+    }
+
+    .contact-me .left{
+        flex: 2;
+    }
+
     .links.active{
         visibility: visible;
         transform: translate(0%);
