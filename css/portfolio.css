@@ -503,6 +503,10 @@ embed.my-resume{
         margin:  0 auto;
     }
 
+    .contact-me .left form{
+        margin-bottom: 1rem;
+    }
+
     
 
     .links.active{
