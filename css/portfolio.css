@@ -524,6 +524,11 @@ embed.my-resume{
         padding: 4px;
     }
 
+    .about{
+        margin-top: -3rem;
+
+    }
+
     .about h4{
         /* background-color: red; */
         width: 70%;
