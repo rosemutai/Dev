@@ -497,6 +497,12 @@ embed.my-resume{
         flex-direction: column;
     }
 
+    .contact-me .right,
+    .contact-me .left{
+        width: 90%;
+        margin:  0 auto;
+    }
+
     .links.active{
         visibility: visible;
         transform: translate(0%);
