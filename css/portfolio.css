@@ -267,12 +267,13 @@ img{
     width: 8rem;
     letter-spacing: 2px;
     text-transform: uppercase;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 
 
 .btn:hover{
-    background-color: #000;
+    background-color: rgb(0, 0, 0);
     color: #fff;
     letter-spacing: 4px;
     transition: all 1s linear;
