@@ -68,7 +68,7 @@ a{
     position: absolute;
     bottom: 10%;
     /* background-color: red; */
-    margin: 0 18%;
+    margin: 0 0 0 18%;
     color: #fff;
 
 }
@@ -474,9 +474,7 @@ embed.my-resume{
         display: none;
     }
 
-    .about {
-        margin-left:  20% !important;
-    }
+    
 }
 
 @media screen and (max-width: 768px) {
