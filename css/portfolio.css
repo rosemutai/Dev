@@ -42,6 +42,7 @@ a{
     text-decoration: none;
     margin: 0.5rem;
     color: #FFF;
+    border-bottom: 0px solid transparent;
 }
 
 .links a:hover{
