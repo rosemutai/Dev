@@ -288,13 +288,6 @@ img{
    
 }
 
-.ham-burger{
-    height: 35px;
-    color: #C56824;
-    font-size: 2em;
-    visibility: hidden;
-}
-
 
 .line1{
     border-bottom: 3px solid #C56824;
@@ -470,6 +463,16 @@ embed.my-resume{
 .messages{
     background-color: red;
     color: #fff;
+}
+
+@media screen and (min-width: 768px) {
+    .ham-burger {
+        height: 35px;
+        color: #C56824;
+        font-size: 2em;
+        visibility: hidden;
+        display: none;
+    }
 }
 
 @media screen and (max-width: 768px) {
