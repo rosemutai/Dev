@@ -42,7 +42,8 @@ a{
     text-decoration: none;
     margin: 0.5rem;
     color: #FFF;
-    border-bottom: 0px solid transparent;
+    padding: 4px;
+    /* border-bottom: 0px solid transparent; */
 }
 
 .links a:hover{
@@ -50,7 +51,7 @@ a{
     border-bottom: 0px solid #C56824;
     transition:  border-bottom 2s 1s ease-in;
     box-shadow: 1px 1px 4px #C56824;
-    /* padding: 4px; */
+    
     
 
 }
