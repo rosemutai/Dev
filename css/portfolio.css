@@ -68,7 +68,7 @@ a{
     position: absolute;
     bottom: 10%;
     /* background-color: red; */
-    margin: 0 28%;
+    margin: 0 18%;
     color: #fff;
 
 }
@@ -116,7 +116,7 @@ span.mycareer{
     border-right: 4px solid #C56824;
     text-transform: uppercase;
     overflow: hidden;
-    animation: animate 6s linear infinite;
+    /* animation: animate 6s linear infinite; */
 
 }
 
@@ -472,6 +472,10 @@ embed.my-resume{
         font-size: 2em;
         visibility: hidden;
         display: none;
+    }
+
+    .about {
+        margin-left: 30%;
     }
 }
 
