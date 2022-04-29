@@ -466,7 +466,7 @@ embed.my-resume{
 }
 
 @media screen and (min-width: 768px) {
-    .ham-burger {
+    #hamburger {
         height: 35px;
         color: #C56824;
         font-size: 2em;
