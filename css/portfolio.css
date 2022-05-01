@@ -213,7 +213,7 @@ p.project-title{
 }
 
 .card:hover{
-    height: 40rem;
+    height: 36rem;
     box-shadow: 1.2px 1.2px 20px #C56824;
     transition: all 1s linear;
 
